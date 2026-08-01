@@ -1,5 +1,6 @@
-### Generator Nickname
+<p align="center"><img src="public/Screenshot.png" width="850"></p>
 
+### Generator Nickname
 Веб-сайт по генирации Nickname для личных целей.
 
 ## 🚀 Возможности
