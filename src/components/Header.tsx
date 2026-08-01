@@ -114,7 +114,7 @@ export function Header({
 
         {/* GitHub link */}
         <a
-          href="https://generator-nickname.vercel.app/"
+          href="https://github.com/neizvestev/generator-nickname/"
           target="_blank"
           rel="noopener noreferrer"
           onClick={() => playBeep(1100, "triangle", 0.1)}
